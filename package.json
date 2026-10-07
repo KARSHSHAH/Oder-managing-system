@@ -1,0 +1,12 @@
+{
+  "name": "undergarments-order-system",
+  "version": "1.0.0",
+  "description": "Undergarments Wholesale Order Management System (MERN)",
+  "scripts": {
+    "start:backend": "cd backend && node src/server.js",
+    "dev:backend": "cd backend && node --watch src/server.js",
+    "start:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && node src/utils/seedData.js",
+    "start:all": "npx concurrently \"npm run dev:backend\" \"npm run start:frontend\""
+  }
+}
