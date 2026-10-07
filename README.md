@@ -1,5 +1,8 @@
 # Undergarments Wholesale Order Management System (OMS)
 
+**🌐 Live Demo:** [https://classy-moxie-21eff0.netlify.app](https://classy-moxie-21eff0.netlify.app)
+
+
 ## 📌 Project Overview
 The **Undergarments Wholesale OMS** is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to streamline the wholesale supply chain. It provides a centralized platform for administrators, field staff, and retail parties to manage product catalogs, bulk orders, financial ledgers, and inventory.
 
